@@ -1,0 +1,13 @@
+id: esp32-p4c6-core-board
+category: core-boards
+
+title: ESP32-P4C6
+summary: RISC-V dual-core (ESP32-P4 + ESP32-C6FH4), 16MB Flash, 32MB PSRAM, compact stamp-hole module.
+
+specs:
+  mcu: ESP32-P4
+  wireless: ESP32-C6FH4
+  clock: 360 MHz
+  flash: 16 MB
+  psram: 32 MB
+  size: 25x25 mm

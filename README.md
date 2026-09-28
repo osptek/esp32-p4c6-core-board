@@ -224,6 +224,7 @@ esp32-p4c6-core-board/
 - [ESP32P4C6 模组封装库（原理图 SchLib）](./docs/ESP32P4C6%E6%A8%A1%E7%BB%84%E5%B0%81%E8%A3%85.SchLib)
 - [ESP32P4C6 模组封装库（PCB PcbLib）](./docs/ESP32P4C6%E6%A8%A1%E7%BB%84%E5%B0%81%E8%A3%85.PcbLib)
 - [C6 2.4G 天线资料](./docs/C6%202.4G%E5%A4%A9%E7%BA%BF.pdf)
+- [C6 预编译固件 2.12.9（Release，烧 `0x0`）](https://github.com/osptek/esp32-p4c6-core-board/releases/tag/v2.12.9) · [Gitee](https://gitee.com/osptek/esp32-p4c6-core-board/releases/tag/v2.12.9)
 
 ### 芯片资料（乐鑫官方）
 

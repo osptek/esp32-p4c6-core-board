@@ -226,6 +226,7 @@ esp32-p4c6-core-board/
 - [ESP32P4C6 module footprint library (SchLib)](./docs/ESP32P4C6%E6%A8%A1%E7%BB%84%E5%B0%81%E8%A3%85.SchLib)
 - [ESP32P4C6 module footprint library (PcbLib)](./docs/ESP32P4C6%E6%A8%A1%E7%BB%84%E5%B0%81%E8%A3%85.PcbLib)
 - [C6 2.4G antenna documentation](./docs/C6%202.4G%E5%A4%A9%E7%BA%BF.pdf)
+- [C6 firmware 2.12.9 (Release, flash `0x0`)](https://github.com/osptek/esp32-p4c6-core-board/releases/tag/v2.12.9) · [Gitee](https://gitee.com/osptek/esp32-p4c6-core-board/releases/tag/v2.12.9)
 
 ### Chip Documentation (Espressif)
 
